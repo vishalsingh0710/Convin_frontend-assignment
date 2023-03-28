@@ -1,0 +1,41 @@
+{
+  "Education": [
+    {
+      "title": "net",
+      "link": "https://www.youtube.com/watch?v=TKeTRUlCtqg",
+      "id": 1
+    },
+    {
+      "title": "spotify",
+      "link": "https://www.youtube.com/watch?v=TKeTRUlCtqg",
+      "id": 2
+    },
+    {
+      "title": "takeuforward",
+      "link": "https://www.youtube.com/watch?v=TKeTRUlCtqg",
+      "id": 3
+    },
+    {
+      "title": "part6",
+      "link": "https://www.youtube.com/watch?v=LSd6yCRsIvs",
+      "id": 4
+    }
+  ],
+  "Entertainment": [
+    {
+      "title": "spotify",
+      "link": "spotify.com",
+      "id": 3
+    },
+    {
+      "title": "part4",
+      "link": "https://www.youtube.com/watch?v=oO5uLE7EUlM",
+      "id": 4
+    },
+    {
+      "title": "part5",
+      "link": "https://www.youtube.com/watch?v=JDOXKqF60RQ",
+      "id": 5
+    }
+  ]
+}
